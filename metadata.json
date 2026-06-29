@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Permit Assessment Tool",
+  "description": "A tool to estimate building permit assessment fees for LASPPPA and generate a digital roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
